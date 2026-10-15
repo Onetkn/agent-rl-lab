@@ -1,0 +1,11 @@
+# Proposed settings only; not a validated training environment.
+status: not_run
+base_model: Qwen/Qwen2.5-3B-Instruct
+backend: local
+task: nws_weather
+mcp_endpoint: null
+seed: 42
+max_turns: 3
+evaluation_tasks: 20
+training_enabled: false
+dependency_lock_status: pending_gpu_environment_selection

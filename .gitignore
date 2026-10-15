@@ -1,0 +1,10 @@
+upstream/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.art/
+outputs/
+*.pt
+*.safetensors

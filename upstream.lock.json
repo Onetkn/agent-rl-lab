@@ -1,0 +1,15 @@
+{
+  "review_date": "2026-10-15",
+  "repositories": {
+    "art-notebooks": {
+      "url": "https://github.com/OpenPipe/art-notebooks.git",
+      "commit": "74c819447bd1e03318369d30fc0acb0f1106d5b6"
+    },
+    "ART": {
+      "url": "https://github.com/OpenPipe/ART.git",
+      "commit": "c7dda222015f728cf625fbb9719b2152dfd41d24"
+    }
+  },
+  "notebook": "examples/mcp-rl/mcp-rl.ipynb",
+  "training_environment_resolved": false
+}
